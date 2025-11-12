@@ -1,7 +1,8 @@
 # Clever Word Guessing Game
 
 ## Overview
-A Python "Guess the Word" game where the user tries to reveal a secret word one letter at a time before running out of misses.
+A Python "Guess the Word" game where the user tries to reveal a secret word one letter at a time before running out of misses.The game features a smart algorithm that is designed to make guessing as challenging as possible. It selects random words strategically and keeps track of guesses in a way that maximizes difficulty and unpredictability.
+
 
 ## Files
 - **GuessWord.py** – Main game file  
